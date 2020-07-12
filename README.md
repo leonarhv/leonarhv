@@ -8,11 +8,18 @@
 
 Junior Software Developer 👨‍💻 | Computer Science Student 📚
 
-## O que estou estudando agora?
+## 📚 O que estou estudando agora?
 - Estou participando do Bootcamp GoStack da [Rocketseat 🚀](https://github.com/Rocketseat)
 os projetos desenvolvidos usam tecnologias modernas como: **Typescript, NodeJS, ReactJS e React Native.**
 [Veja aqui um dos projetos desenvolvidos](https://github.com/leonarhv/Desafio-06-GoStack)
 
+## ⚡ Tecnologias
+- Desenvolvimento Frontend: **ReactJS, Jquery e Bootstrap**
+ Tenho experiência como freelancer em desenvolvimento de sites responsivos
+- Desenvolvimento Backend: **Java (Conhecimento no framework Spring) e NodeJS**
+- Desenvolvimento Mobile: Experiência em desenvolvimento nativo para IOS e Android com **React Native**
+- Banco de dados: Conhecimento em bancos Relacionais e não relacionais como: MySQL, PostgresSQL e MongoDB
+- Outras ferramentas: **Docker**
 <!--
 Here are some ideas to get you started:
 
