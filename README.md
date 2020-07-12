@@ -18,7 +18,7 @@ os projetos desenvolvidos usam tecnologias modernas como: **Typescript, NodeJS, 
  Tenho experiência como freelancer em desenvolvimento de sites responsivos
 - Desenvolvimento Backend: **Java (Conhecimento no framework Spring) e NodeJS**
 - Desenvolvimento Mobile: Experiência em desenvolvimento nativo para IOS e Android com **React Native**
-- Banco de dados: Conhecimento em bancos Relacionais e não relacionais como: MySQL, PostgresSQL e MongoDB
+- Banco de dados: Conhecimento em bancos Relacionais e não relacionais como: **MySQL, PostgresSQL e MongoDB**
 - Outras ferramentas: **Docker**
 <!--
 Here are some ideas to get you started:
