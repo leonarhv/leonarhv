@@ -1,4 +1,4 @@
-# Leonardo Henrique Vieira
+# Leonardo Henrique Vieira 😃
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leonarhv)](https://github.com/leonarhv)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-henrique-vieira-848048192/)](https://www.linkedin.com/in/leonardo-henrique-vieira-848048192/)
