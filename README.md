@@ -9,9 +9,9 @@
 Junior Software Developer 👨‍💻 | Computer Science Student 📚
 
 ## O que estou estudando agora?
-- Estou participando do Bootcamp GoStack da [https://github.com/Rocketseat](Rocketseat) 🚀 
+- Estou participando do Bootcamp GoStack da [Rocketseat 🚀](https://github.com/Rocketseat)
 os projetos desenvolvidos usam tecnologias modernas como: **Typescript, NodeJS, ReactJS e React Native.**
-[https://github.com/leonarhv/Desafio-06-GoStack](Veja aqui um dos projetos desenvolvidos)
+[Veja aqui um dos projetos desenvolvidos](https://github.com/leonarhv/Desafio-06-GoStack)
 
 <!--
 Here are some ideas to get you started:
