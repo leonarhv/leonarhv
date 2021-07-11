@@ -6,19 +6,24 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511992913483&text=Olá!)](https://api.whatsapp.com/send?phone=5511992913483&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leohvir@gmail.com)](mailto:leohvir@gmail.com)
 
-Junior Software Developer 👨‍💻 | Computer Science Student 📚
+Software Engineer 👨‍💻 | Computer Science Student 📚
 
 ## 📚 O que estou estudando agora?
+- Estou estudando sobre desenvolvimento web com Java e Spring pelos cursos da [Alura](https://www.alura.com.br).
+Você pode acompanhar meus estudos por esse repositório: [Estudos Alura](https://github.com/leonarhv/Estudos_Alura).
+- Também estou estudando constantemente sobre Complexidade de Algoritmos e Estruturas de dados.
+<!--
 - Estou participando do Bootcamp GoStack da [Rocketseat 🚀](https://github.com/Rocketseat)
 os projetos desenvolvidos usam tecnologias modernas como: **Typescript, NodeJS, ReactJS e React Native.**
 [Veja aqui um dos projetos desenvolvidos](https://github.com/leonarhv/Desafio-06-GoStack)
+-->
 
 ## ⚡ Tecnologias
 - Desenvolvimento Frontend: **ReactJS, Jquery e Bootstrap**
  Tenho experiência como freelancer em desenvolvimento de sites responsivos
 - Desenvolvimento Backend: **Java (Conhecimento no framework Spring) e NodeJS**
 - Desenvolvimento Mobile: Experiência em desenvolvimento nativo para IOS e Android com **React Native**
-- Banco de dados: Conhecimento em bancos Relacionais e não relacionais como: **MySQL, PostgresSQL e MongoDB**
+- Banco de dados: Conhecimento em bancos Relacionais e não relacionais como: **Oracle, MySQL, PostgresSQL e MongoDB**
 - Outras ferramentas: **Docker**
 <!--
 Here are some ideas to get you started:
